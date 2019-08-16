@@ -14,4 +14,4 @@ I set a variable as the index of the array, and passed then essentially passed t
 The visual was not complete at the time of this writing.
 ## Solution
 
-<img src="assets/array-reverse.jpg">
+<img src="assets/reverse-array.jpg">
